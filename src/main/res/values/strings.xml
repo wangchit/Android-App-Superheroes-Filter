@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ListViewCustomAdapter</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_what_is_it">Restaurants in Universe</string>
+    <string name="message_is_a"> is a </string>
+    <string name="planet_symbol">Restaurant Symbol</string>
+    <string name="type_planet">Alien Food</string>
+    <string name="type_minor_planet">American Food</string>
+    <string name="type_animal">Special Animal Food</string>
+    <string name="type_radioactive">Radioactive Food</string>
+    <string name="what_is_it">Type</string>
+
+    <string name="type_both">All Restaurants</string>
+    <string name="type_major">Alien Food</string>
+    <string name="type_minor">American Food</string>
+    <string name="type_animal_setting">Animal Food</string>
+    <string name="type_radioactive_setting">Radioactive Food</string>
+
+    <string name="type_show_title">Show</string>
+    <string name="show_whatis_button">What Is Restaurant</string>
+    <string name="show_whatis_button_details">Check to show "Restaurants in the Universe" button</string>
+
+    <string-array name="show_planet_type">
+        <item>@string/type_both</item>
+        <item>@string/type_major</item>
+        <item>@string/type_minor</item>
+        <item>@string/type_animal_setting</item>
+        <item>@string/type_radioactive_setting</item>
+    </string-array>
+
+    <string-array name="show_planet_id">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="title_activity_setting">SettingActivity</string>
+</resources>
